@@ -55,5 +55,6 @@ Infrastructure as a code
 - CloudFormation
 - Pulumi
 - CDK
+- AWS controllers https://github.com/aws-controllers-k8s/community
 - GCP DM
 - https://crossplane.io/ - Manage any infrastructure your applications need directly from Kubernetes
