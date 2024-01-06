@@ -47,3 +47,13 @@
 - Testing
   - JSON 
     - https://randomuser.me/api
+
+
+Infrastructure as a code
+
+- Terraform
+- CloudFormation
+- Pulumi
+- CDK
+- GCP DM
+- https://crossplane.io/ - Manage any infrastructure your applications need directly from Kubernetes
