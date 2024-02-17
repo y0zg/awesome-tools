@@ -1,4 +1,5 @@
 - [Search engines](https://github.com/y0zg/awesome-tools/blob/main/search.md)
+- [CICD](https://github.com/y0zg/awesome-tools/blob/main/cicd.md)
 #
 - https://free-for.dev/#/
 - https://github.com/mfornos/awesome-microservices
