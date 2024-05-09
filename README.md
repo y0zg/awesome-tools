@@ -30,6 +30,12 @@
 # Cloud management
 - Cloud custodian https://cloudcustodian.io/docs/index.html
 
+# Network
+- ipcalc
+- network planner and subnet calculator - https://network00.com/
+- IP calculator - https://jodies.de/ipcalc?host=10.1.0.0&mask1=24&mask2=27
+- IPAM address management - https://phpipam.net/
+
 # Infrastructure as a code
 
 - Terraform
