@@ -54,6 +54,7 @@
   - [Local development](https://github.com/localstack/localstack)
   - [EC2 details](https://www.ec2instances.info/)
   - pSecurity best practices](https://asecure.cloud/)
+  - [VPC designer](https://vpcdesigner.com/)
 
 # Cloud cost management platforms
   - Anodot - preferred!
