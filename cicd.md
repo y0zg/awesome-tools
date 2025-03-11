@@ -5,6 +5,8 @@
     * argo workflows + argo events + argocd
     * Entr https://eradman.com/entrproject/
     * Drone CI
+  * Build AI-agents
+    * https://github.com/dagger/dagger
   * Guides
     * https://hands-on-tech.github.io/2020/03/15/k8s-jenkins-example.html
   * Deployments: Canary, A/B
