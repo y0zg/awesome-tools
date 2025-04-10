@@ -76,6 +76,12 @@
   - pSecurity best practices](https://asecure.cloud/)
   - [VPC designer](https://vpcdesigner.com/)
 
+### S3
+- https://rclone.org/ - Multicloude cloud clone. Rclone is a command line program to manage files on cloud storage
+- rclone purge --verbose s3:my-versioned-bucket - delete versioned bucket
+- https://github.com/y0zg/s3gof3r s3gof3r provides fast, parallelized, pipelined streaming access to Amazon S3
+- https://github.com/peak/s5cmd
+
 # Cloud cost management platforms
   - Anodot - preferred!
   - CloudZero
