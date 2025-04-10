@@ -7,6 +7,12 @@
 
 # AI
   - AI infra generator https://github.com/gofireflyio/aiac
+  - plaform https://platform.openai.com/api-keys
+  - pdf analysis - https://notebooklm.google/
+  - all-hands https://github.com/All-Hands-AI/OpenHands
+  - search engine http://phind.com/
+  - Infra AI https://github.com/gofireflyio/aiac
+  - music generator https://aimusic.so/tag/Ukraine
 
 # Developer portal
   - https://github.com/backstage/backstage
@@ -45,6 +51,14 @@
 - AWS controllers https://github.com/aws-controllers-k8s/community
 - GCP DM
 - https://crossplane.io/ - Manage any infrastructure your applications need directly from Kubernetes
+
+# CICD
+
+## Github actions
+- awesome tools https://project-awesome.org/sdras/awesome-actions
+- AWS https://github.com/aws-actions
+- runner https://github.com/actions-runner-controller/actions-runner-controller
+
 
 # Clouds 
 
