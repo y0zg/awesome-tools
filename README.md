@@ -1,5 +1,14 @@
+# Awesome Tools
+
 - [Search engines](https://github.com/y0zg/awesome-tools/blob/main/search.md)
 - [CICD](https://github.com/y0zg/awesome-tools/blob/main/cicd.md)
+- [Network Tools](https://github.com/y0zg/awesome-tools/blob/main/network_tools.md)
+- [AI Tools](https://github.com/y0zg/awesome-tools/blob/main/ai.md)
+- [Monitoring & Observability](https://github.com/y0zg/awesome-tools/blob/main/monitoring_observability.md)
+- [AWS Tools](https://github.com/y0zg/awesome-tools/blob/main/aws_tools.md)
+- [Infrastructure as Code](https://github.com/y0zg/awesome-tools/blob/main/infrastructure_as_code.md)
+- [Developer Experience](https://github.com/y0zg/awesome-tools/blob/main/developer_experience.md)
+- [Linux](https://github.com/y0zg/awesome-tools/blob/main/linux_tools.md)
 #
 - https://free-for.dev/#/
 - https://github.com/mfornos/awesome-microservices
