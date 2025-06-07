@@ -15,6 +15,8 @@
 - https://github.com/rootsongjc/awesome-cloud-native
 
 # AI
+  - Local https://github.com/ollama/ollama 
+  - home llm vision - https://github.com/valentinfrlch/ha-llmvision
   - AI infra generator https://github.com/gofireflyio/aiac
   - plaform https://platform.openai.com/api-keys
   - pdf analysis - https://notebooklm.google/
@@ -22,6 +24,10 @@
   - search engine http://phind.com/
   - Infra AI https://github.com/gofireflyio/aiac
   - music generator https://aimusic.so/tag/Ukraine
+
+# MCP
+- AWS https://github.com/awslabs/mcp
+- https://modelcontextprotocol.io/introduction
 
 # Developer portal
   - https://github.com/backstage/backstage
