@@ -18,7 +18,7 @@
   - Local https://github.com/ollama/ollama 
   - home llm vision - https://github.com/valentinfrlch/ha-llmvision
   - AI infra generator https://github.com/gofireflyio/aiac
-  - plaform https://platform.openai.com/api-keys
+  - OpenAI development https://platform.openai.com/api-keys
   - pdf analysis - https://notebooklm.google/
   - all-hands https://github.com/All-Hands-AI/OpenHands
   - search engine http://phind.com/
@@ -90,6 +90,8 @@
   - [EC2 details](https://www.ec2instances.info/)
   - pSecurity best practices](https://asecure.cloud/)
   - [VPC designer](https://vpcdesigner.com/)
+  - generate least privilege IAM policies https://policy-sentry.readthedocs.io/en/latest/querying/action-table/
+  - cloudsplaining - IAM Security Assessment tool that identifies violations https://github.com/salesforce/cloudsplaining
 
 ### S3
 - https://rclone.org/ - Multicloud cloud clone. Rclone is a command line program to manage files on cloud storage
