@@ -21,3 +21,4 @@
 - fullhunt.io attack surface
 - crt.sh certificate search
 - vulners.com vulnerabilities
+- hudsonrock.com threat intelligence
