@@ -2,7 +2,10 @@
 
 AI tools and resources
 
-## Development Assistance
+## MCP
+- https://github.com/jlowin/fastmcp
+
+## Assistance
 
 - AI infra generator [AIAC](https://github.com/gofireflyio/aiac) - Generate Infrastructure as Code using AI
 - OpenAI Platform [OpenAI](https://platform.openai.com/api-keys) - Access to GPT models via API
@@ -22,6 +25,7 @@ AI tools and resources
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions 
 - [Tabnine](https://www.tabnine.com/) - AI code completion for all programming languages
+
 
 ## AI for DevOps
 
