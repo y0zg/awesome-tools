@@ -4,6 +4,8 @@ AI tools and resources
 
 ## MCP
 - https://github.com/jlowin/fastmcp
+- Elasticsearch MCP with claude https://github.com/y0zg/mcp-elasticsearch
+- AWS MCP https://awslabs.github.io/mcp/servers/ccapi-mcp-server/
 
 ## Assistance
 
