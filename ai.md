@@ -3,6 +3,7 @@
 AI tools and resources
 
 ## MCP
+- Documentation (must have) https://github.com/upstash/context7
 - python lib to write own MCP https://github.com/jlowin/fastmcp
 - Elasticsearch MCP with claude https://github.com/y0zg/mcp-elasticsearch
 - Elasticsearch MCP https://github.com/elastic/mcp-server-elasticsearch
