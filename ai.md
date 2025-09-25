@@ -5,8 +5,12 @@ AI tools and resources
 ## MCP
 - https://github.com/jlowin/fastmcp
 - Elasticsearch MCP with claude https://github.com/y0zg/mcp-elasticsearch
+- Elasticsearch MCP https://github.com/elastic/mcp-server-elasticsearch
 - AWS MCP https://awslabs.github.io/mcp/servers/ccapi-mcp-server/
 - Chrome DevTools https://developer.chrome.com/blog/chrome-devtools-mcp
+- https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+- JIRA, Confluence https://github.com/sooperset/mcp-atlassian
+- Postgresql https://github.com/crystaldba/postgres-mcp
 
 ## Assistance
 
