@@ -6,6 +6,7 @@ AI tools and resources
 - https://github.com/jlowin/fastmcp
 - Elasticsearch MCP with claude https://github.com/y0zg/mcp-elasticsearch
 - AWS MCP https://awslabs.github.io/mcp/servers/ccapi-mcp-server/
+- Chrome DevTools https://developer.chrome.com/blog/chrome-devtools-mcp
 
 ## Assistance
 
