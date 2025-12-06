@@ -2,6 +2,13 @@
 
 AI tools and resources
 
+## Content generation
+- Nano banana https://artlist.io/
+
+## Workflows
+- workflows generation https://github.com/n8n-io/n8n
+- workflow templates https://n8nworkflows.xyz/
+
 ## MCP
 - Documentation (must have) https://github.com/upstash/context7
 - python lib to write own MCP https://github.com/jlowin/fastmcp
