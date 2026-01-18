@@ -10,6 +10,7 @@ Tools, services, and resources for working with Amazon Web Services
 - [EC2 Instance Comparison](https://www.ec2instances.info/) - Compare EC2 instance types and pricing
 - [Compute Cost Comparison](https://compute-cost.com/) - Find the best price for AWS compute
 - [AWS Security Best Practices](https://asecure.cloud/) - Repository of AWS security configurations and best practices
+- [AWS workshops](https://builder.aws.com/build/workshops)
 
 ## IAM & Security
 
