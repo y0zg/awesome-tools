@@ -22,6 +22,9 @@ AI tools and resources
 - JIRA, Confluence https://github.com/sooperset/mcp-atlassian
 - Postgresql https://github.com/crystaldba/postgres-mcp
 
+## Skils
+- Write like human https://github.com/y0zg/stop-slop
+
 ## Assistance
 
 - AI infra generator [AIAC](https://github.com/gofireflyio/aiac) - Generate Infrastructure as Code using AI
