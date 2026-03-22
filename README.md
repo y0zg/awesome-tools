@@ -27,6 +27,7 @@
 
 # MCP
 - AWS https://github.com/awslabs/mcp
+- Playwright test automation https://github.com/microsoft/playwright-mcp
 - https://modelcontextprotocol.io/introduction
 
 # Developer portal
