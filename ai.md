@@ -22,6 +22,9 @@ AI tools and resources
 - JIRA, Confluence https://github.com/sooperset/mcp-atlassian
 - Postgresql https://github.com/crystaldba/postgres-mcp
 
+## Tokens management
+- CLI proxy that reduces LLM token consumption https://github.com/y0zg/rtk
+  
 ## Skils
 - Write like human https://github.com/y0zg/stop-slop
 
