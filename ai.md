@@ -2,6 +2,9 @@
 
 AI tools and resources
 
+## Learning
+- https://aiengineeringfromscratch.com/
+
 ## Content generation
 - Nano banana https://artlist.io/
 
@@ -24,6 +27,7 @@ AI tools and resources
 
 ## Tokens management
 - CLI proxy that reduces LLM token consumption https://github.com/y0zg/rtk
+- Persistem memory http://github.com/rohitg00/agentmemory
   
 ## Skils
 - Write like human https://github.com/y0zg/stop-slop
