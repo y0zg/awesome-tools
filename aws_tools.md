@@ -8,6 +8,7 @@ Tools, services, and resources for working with Amazon Web Services
 - [AWS Status Dashboard Alternative](https://stop.lying.cloud/) - Third-party AWS status monitoring
 - [AWS Quick Start Examples](https://github.com/aws-quickstart) - Reference deployments for AWS
 - [EC2 Instance Comparison](https://www.ec2instances.info/) - Compare EC2 instance types and pricing
+- [AWS Regions Details](https://awsregion.info/) - Services available per region
 - [Compute Cost Comparison](https://compute-cost.com/) - Find the best price for AWS compute
 - [AWS Security Best Practices](https://asecure.cloud/) - Repository of AWS security configurations and best practices
 - [AWS workshops](https://builder.aws.com/build/workshops)

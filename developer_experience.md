@@ -105,6 +105,10 @@ A curated collection of tools, platforms, and resources for improving developer 
 - [Awesome OSS Alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Open source alternatives
 - [ShortcutFoo](https://www.shortcutfoo.com/) - Practice keyboard shortcuts
 
+## End of Life Tracking
+
+- [End of Life Date](https://endoflife.date/) - Track EOL dates for software, frameworks, and tools
+
 ## Hosting & VPS
 
 - [VPS Comparison](https://www.comparevps.com/) - VPS pricing comparison

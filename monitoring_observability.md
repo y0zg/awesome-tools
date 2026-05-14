@@ -157,6 +157,10 @@ sum by (status) (count_over_time({app="nginx"} | regexp "status=(?P<status>\\d+)
 - Configure proper scrape intervals
 - Use federation for large-scale deployments
 
+## Community Activity
+
+- [CNCF GitHub Activity](https://all.devstats.cncf.io/d/1/activity-repository-groups?orgId=1&from=now-5y&to=now&var-period=m&var-repogroups=All) - CNCF project activity stats over time
+
 ## References
 - [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
 - [Grafana Documentation](https://grafana.com/docs/)

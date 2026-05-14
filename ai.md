@@ -2,47 +2,60 @@
 
 AI tools and resources
 
+## Local AI
+
+- [Ollama](https://github.com/ollama/ollama) - Run large language models locally
+- [HA LLM Vision](https://github.com/valentinfrlch/ha-llmvision) - Home Assistant LLM vision integration
+
 ## Understand repo
-- deepwiki.com 
+
+- [DeepWiki](https://deepwiki.com) - AI-powered repository understanding
 
 ## Learning
-- https://aiengineeringfromscratch.com/
 
-## Content generation
-- Nano banana https://artlist.io/
+- [AI Engineering from Scratch](https://aiengineeringfromscratch.com/) - AI engineering course
+
+## Content Generation
+
+- [Artlist](https://artlist.io/) - Music and audio licensing for content creators
 
 ## Workflows
-- workflows generation https://github.com/n8n-io/n8n
-- workflow templates https://n8nworkflows.xyz/
+
+- [n8n](https://github.com/n8n-io/n8n) - Workflow automation platform
+- [n8n Workflow Templates](https://n8nworkflows.xyz/) - Community-contributed n8n templates
 
 ## MCP
-- Documentation (must have) https://github.com/upstash/context7
-- python lib to write own MCP https://github.com/jlowin/fastmcp
-- Docker MCP Toolkit (allow to connect other MCPs) <img width="1016" height="536" alt="image" src="https://github.com/user-attachments/assets/c3b95e46-913f-4aff-af2a-a0a05d6a8f81" />
 
-- Elasticsearch MCP with claude https://github.com/y0zg/mcp-elasticsearch
-- Elasticsearch MCP https://github.com/elastic/mcp-server-elasticsearch
-- AWS MCP https://awslabs.github.io/mcp/servers/ccapi-mcp-server/
-- Chrome DevTools https://developer.chrome.com/blog/chrome-devtools-mcp
-- https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
-- JIRA, Confluence https://github.com/sooperset/mcp-atlassian
-- Postgresql https://github.com/crystaldba/postgres-mcp
+- [MCP Introduction](https://modelcontextprotocol.io/introduction) - Official Model Context Protocol docs
+- [Context7](https://github.com/upstash/context7) - Up-to-date documentation for LLMs (must have)
+- [FastMCP](https://github.com/jlowin/fastmcp) - Python library to build MCP servers
+- Docker MCP Toolkit - Connect and manage multiple MCP servers
+- [Elasticsearch MCP (Custom)](https://github.com/y0zg/mcp-elasticsearch) - Elasticsearch MCP server for Claude
+- [Elasticsearch MCP (Official)](https://github.com/elastic/mcp-server-elasticsearch) - Official Elastic MCP server
+- [AWS MCP](https://awslabs.github.io/mcp/servers/ccapi-mcp-server/) - AWS Cloud Control API MCP server
+- [Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp) - Chrome DevTools via MCP
+- [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Sequential reasoning MCP server
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Browser automation via MCP
+- [Atlassian MCP](https://github.com/sooperset/mcp-atlassian) - JIRA and Confluence via MCP
+- [PostgreSQL MCP](https://github.com/crystaldba/postgres-mcp) - PostgreSQL database via MCP
 
-## Tokens management
-- CLI proxy that reduces LLM token consumption https://github.com/y0zg/rtk
-- Persistem memory http://github.com/rohitg00/agentmemory
-  
-## Skils
-- Write like human https://github.com/y0zg/stop-slop
+## Tokens Management
+
+- [RTK](https://github.com/y0zg/rtk) - CLI proxy that reduces LLM token consumption
+- [AgentMemory](https://github.com/rohitg00/agentmemory) - Persistent memory for AI agents
+
+## Skills
+
+- [Stop Slop](https://github.com/y0zg/stop-slop) - Write more naturally, less like AI
 
 ## Assistance
 
-- AI infra generator [AIAC](https://github.com/gofireflyio/aiac) - Generate Infrastructure as Code using AI
-- OpenAI Platform [OpenAI](https://platform.openai.com/api-keys) - Access to GPT models via API
-- Document analysis [NotebookLM](https://notebooklm.google/) - AI-powered document understanding
-- Open source AI [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Community-driven AI framework
-- Developer search engine [Phind](http://phind.com/) - AI-powered search tailored for developers
-- Music generation [AI Music](https://aimusic.so/tag/Ukraine) - Create musical compositions with AI
+- [AIAC](https://github.com/gofireflyio/aiac) - AI-powered Infrastructure as Code generator
+- [OpenAI Platform](https://platform.openai.com/api-keys) - Access to GPT models via API
+- [NotebookLM](https://notebooklm.google/) - AI-powered document understanding
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Community-driven AI framework
+- [Phind](http://phind.com/) - AI-powered search engine for developers
+- [AI Music](https://aimusic.so/tag/Ukraine) - AI music generation
 
 ## Infrastructure Management
 
@@ -53,15 +66,14 @@ AI tools and resources
 ## Code Generation
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions 
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions
 - [Tabnine](https://www.tabnine.com/) - AI code completion for all programming languages
-
 
 ## AI for DevOps
 
 - [GitGPT](https://github.com/Hesse/gitgpt) - AI-driven Git commit message generation
 - [SonarQube AI](https://www.sonarqube.org/sonarqube-ai/) - Code quality and security analysis with AI
-- [ML-powered log analysis](https://github.com/logpai/loglizer) - Identify issues in logs with machine learning
+- [ML-powered Log Analysis](https://github.com/logpai/loglizer) - Identify issues in logs with machine learning
 
 ## Security Tools
 
@@ -87,4 +99,4 @@ AI tools and resources
 - **Review**: Always validate AI-generated infrastructure code before deployment
 - **Cost Management**: Set usage limits for AI API calls to prevent unexpected costs
 - **Progressive Adoption**: Start with non-critical tasks when integrating AI tools
-- **Human Oversight**: Keep humans in the loop for critical decisions and reviews 
+- **Human Oversight**: Keep humans in the loop for critical decisions and reviews
