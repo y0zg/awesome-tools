@@ -2,6 +2,9 @@
 
 AI tools and resources
 
+## Understand repo
+- deepwiki.com 
+
 ## Learning
 - https://aiengineeringfromscratch.com/
 
