@@ -23,6 +23,7 @@ AI tools and resources
 
 - [n8n](https://github.com/n8n-io/n8n) - Workflow automation platform
 - [n8n Workflow Templates](https://n8nworkflows.xyz/) - Community-contributed n8n templates
+- [git worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 ## MCP
 
