@@ -42,6 +42,7 @@ AI tools and resources
 ## Tokens Management
 
 - [RTK](https://github.com/y0zg/rtk) - CLI proxy that reduces LLM token consumption
+- [headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM
 - [AgentMemory](https://github.com/rohitg00/agentmemory) - Persistent memory for AI agents
 
 ## Skills
