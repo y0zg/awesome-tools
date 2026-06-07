@@ -14,6 +14,7 @@ AI tools and resources
 ## Learning
 
 - [AI Engineering from Scratch](https://aiengineeringfromscratch.com/) - AI engineering course
+- [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) - Karpathy's pattern for building a persistent, compounding knowledge base maintained by LLMs (vs. one-shot RAG)
 
 ## Content Generation
 
@@ -24,6 +25,7 @@ AI tools and resources
 - [n8n](https://github.com/n8n-io/n8n) - Workflow automation platform
 - [n8n Workflow Templates](https://n8nworkflows.xyz/) - Community-contributed n8n templates
 - [git worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- [iii](https://github.com/iii-hq/iii) - Compose, extend, and observe every service in real-time via worker/function/trigger primitives
 
 ## MCP
 
