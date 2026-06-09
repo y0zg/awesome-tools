@@ -2,6 +2,11 @@
 
 AI tools and resources
 
+## Local setup
+- cmux.com
+- claude cli
+- ohmyzsh + plugins
+
 ## Local AI
 
 - [Ollama](https://github.com/ollama/ollama) - Run large language models locally
