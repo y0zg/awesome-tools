@@ -32,6 +32,10 @@ AI tools and resources
 - [git worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [iii](https://github.com/iii-hq/iii) - Compose, extend, and observe every service in real-time via worker/function/trigger primitives
 
+## Running in K8s
+- Kagent https://github.com/kagent-dev/kagent
+- Zeroclaw https://github.com/zeroclaw-labs/zeroclaw
+
 ## MCP
 
 - [MCP Introduction](https://modelcontextprotocol.io/introduction) - Official Model Context Protocol docs
