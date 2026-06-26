@@ -35,6 +35,7 @@ AI tools and resources
 ## Running in K8s
 - Kagent https://github.com/kagent-dev/kagent
 - Zeroclaw https://github.com/zeroclaw-labs/zeroclaw
+- agentgateway https://agentgateway.dev/docs/kubernetes/latest/
 
 ## MCP
 
