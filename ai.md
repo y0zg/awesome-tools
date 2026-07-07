@@ -1,3 +1,6 @@
+# Understand modern AI
+- https://30papers.com/
+
 # AI Tools
 
 AI tools and resources
