@@ -4,7 +4,7 @@ A curated collection of tools and resources for DevOps, Cloud, and Software Engi
 
 ## Categories
 
-- [AI & MCP Tools](ai.md)
+- [AI](ai.md)
 - [AWS Tools & Resources](aws_tools.md)
 - [CI/CD](cicd.md)
 - [Developer Experience](developer_experience.md)
