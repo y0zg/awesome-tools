@@ -5,6 +5,7 @@ A curated collection of tools and resources for DevOps, Cloud, and Software Engi
 ## Categories
 
 - [AI](ai.md)
+- [FreePNGConvert](https://freepngconvert.com) – Free browser-based WebP to PNG converter. No uploads, no signup, unlimited conversions, full privacy.
 - [AWS Tools & Resources](aws_tools.md)
 - [CI/CD](cicd.md)
 - [Developer Experience](developer_experience.md)
