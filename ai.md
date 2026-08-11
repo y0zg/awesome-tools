@@ -13,6 +13,9 @@ AI tools and resources
 ## Project start
 - https://github.com/github/spec-kit - Define what to build before building it with any AI coding agent
 
+## Agents
+- https://github.com/google/adk-python
+
 ## Local AI
 
 - [Ollama](https://github.com/ollama/ollama) - Run large language models locally
