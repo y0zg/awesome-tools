@@ -42,7 +42,8 @@ Set it up myself like a month and a half ago when I started noticing some patter
 ## Workflows
 
 - [n8n](https://github.com/n8n-io/n8n) - Workflow automation platform
-- [n8n Workflow Templates](https://n8nworkflows.xyz/) - Community-contributed n8n templates
+  - https://github.com/EtienneLescot/n8n-as-code
+  - [n8n Workflow Templates](https://n8nworkflows.xyz/) - Community-contributed n8n templates
 - [git worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [iii](https://github.com/iii-hq/iii) - Compose, extend, and observe every service in real-time via worker/function/trigger primitives
 
