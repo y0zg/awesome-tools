@@ -15,6 +15,11 @@ AI tools and resources
 
 ## Agents
 - https://github.com/google/adk-python
+- Agents memory https://github.com/vectorize-io/hindsight
+```
+Set it up myself like a month and a half ago when I started noticing some patterns with corrections I needed to make to hermes and just off the rip the thing made a difference but I've spent a lot of time now optimizing it to work with my workflow and the thing has made such a massive difference its insane
+```
+
 
 ## Local AI
 
