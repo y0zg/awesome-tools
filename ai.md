@@ -19,10 +19,10 @@ AI tools and resources
 ```
 Set it up myself like a month and a half ago when I started noticing some patterns with corrections I needed to make to hermes and just off the rip the thing made a difference but I've spent a lot of time now optimizing it to work with my workflow and the thing has made such a massive difference its insane
 ```
-
+- https://github.com/block/buzz Platform for agents and humans
 
 ## Local AI
-
+- https://github.com/nicepkg/ctxport - copy Copy AI conversations as clean Markdown Context Bundles
 - [Ollama](https://github.com/ollama/ollama) - Run large language models locally
 - [HA LLM Vision](https://github.com/valentinfrlch/ha-llmvision) - Home Assistant LLM vision integration
 
@@ -48,6 +48,7 @@ Set it up myself like a month and a half ago when I started noticing some patter
 - [iii](https://github.com/iii-hq/iii) - Compose, extend, and observe every service in real-time via worker/function/trigger primitives
 
 ## Running in K8s
+
 - Kagent https://github.com/kagent-dev/kagent
 - Zeroclaw https://github.com/zeroclaw-labs/zeroclaw
 - agentgateway https://agentgateway.dev/docs/kubernetes/latest/
@@ -68,6 +69,7 @@ Set it up myself like a month and a half ago when I started noticing some patter
 - [PostgreSQL MCP](https://github.com/crystaldba/postgres-mcp) - PostgreSQL database via MCP
 
 ## Tokens Management
+
 - codegraph https://github.com/colbymchenry/codegraph
 - [RTK](https://github.com/y0zg/rtk) - CLI proxy that reduces LLM token consumption
 - [headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM
