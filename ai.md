@@ -74,6 +74,7 @@ Set it up myself like a month and a half ago when I started noticing some patter
 - [RTK](https://github.com/y0zg/rtk) - CLI proxy that reduces LLM token consumption
 - [headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM
 - [AgentMemory](https://github.com/rohitg00/agentmemory) - Persistent memory for AI agents
+- skill `ponytail-review` https://medium.com/@joe.njenga/i-tried-claude-code-ponytail-and-found-the-lazy-solution-youve-been-missing-d0828735c8bb
 
 ## Skills
 
