@@ -46,6 +46,7 @@ Set it up myself like a month and a half ago when I started noticing some patter
   - [n8n Workflow Templates](https://n8nworkflows.xyz/) - Community-contributed n8n templates
 - [git worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [iii](https://github.com/iii-hq/iii) - Compose, extend, and observe every service in real-time via worker/function/trigger primitives
+- https://github.com/tt-a1i/archify - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams
 
 ## Running in K8s
 
