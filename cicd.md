@@ -143,6 +143,9 @@ CI/CD tools, best practices, and deployment strategies
 - [Semantic Release](https://github.com/semantic-release/gitlab) - Automates the versioning process
 - [Changelog Generator](https://www.npmjs.com/package/generate-changelog) - Automated changelog generation
 
+## Security
+- Safeguarding artifact integrity across any software supply chain https://slsa.dev/
+
 ## Real-world Advice
 
 - Keep CI/CD pipelines fast (under 10 minutes if possible)
