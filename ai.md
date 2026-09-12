@@ -113,7 +113,8 @@ Set it up myself like a month and a half ago when I started noticing some patter
 - [Security Copilot](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) - AI assistant for security teams
 - [Falco AI](https://falco.org/) - Runtime security with ML-based threat detection
 - [Snyk AI](https://snyk.io/product/snyk-code/) - AI-powered vulnerability detection
-
+- Escape evaluation https://github.com/UKGovernmentBEIS/sandbox_escape_bench
+  
 ## Content Creation
 
 - [Midjourney](https://www.midjourney.com/) - Generate images using AI
@@ -125,6 +126,7 @@ Set it up myself like a month and a half ago when I started noticing some patter
 - [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) - Foundational AI concepts
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Crafting effective AI prompts
 - [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction) - Building AI applications
+
 
 ## Best Practices
 
