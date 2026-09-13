@@ -79,6 +79,7 @@ Set it up myself like a month and a half ago when I started noticing some patter
 
 ## Skills
 
+- Skills marketplace https://skillsmp.com/
 - [Stop Slop](https://github.com/y0zg/stop-slop) - Write more naturally, less like AI
 
 ## Assistance
