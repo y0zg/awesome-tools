@@ -115,7 +115,10 @@ Set it up myself like a month and a half ago when I started noticing some patter
 - [Falco AI](https://falco.org/) - Runtime security with ML-based threat detection
 - [Snyk AI](https://snyk.io/product/snyk-code/) - AI-powered vulnerability detection
 - Escape evaluation https://github.com/UKGovernmentBEIS/sandbox_escape_bench
-  
+
+## Mobile
+- https://github.com/google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation.
+
 ## Content Creation
 
 - [Midjourney](https://www.midjourney.com/) - Generate images using AI
