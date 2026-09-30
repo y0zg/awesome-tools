@@ -32,6 +32,7 @@
 - [URLScan](https://urlscan.io) - URL and website scanner
 - [SOCRadar](https://socradar.io) - Extended threat intelligence
 - [HudsonRock](https://hudsonrock.com) - Cybercrime intelligence
+- [cl0q](https://cl0q.com) - Open search engine for domain research — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking.
 
 ## Attack Surface
 
