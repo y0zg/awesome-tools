@@ -85,6 +85,12 @@ the thing has made such a massive difference its insane
 
 - Skills marketplace https://skillsmp.com/
 - [Stop Slop](https://github.com/y0zg/stop-slop) - Write more naturally, less like AI
+- Docker skills https://github.com/docker/skills ref(https://docs.docker.com/ai-overview/)
+  - Dockerfile & Build
+  - Docker Compose
+  - Docker Sandboxes
+  - Docker Agent
+  - Cross-Product
 
 ## Assistance
 
