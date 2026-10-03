@@ -38,6 +38,7 @@ the thing has made such a massive difference its insane
 
 - [AI Engineering from Scratch](https://aiengineeringfromscratch.com/) - AI engineering course
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) - Karpathy's pattern for building a persistent, compounding knowledge base maintained by LLMs (vs. one-shot RAG)
+- https://github.com/THU-MAIC/OpenMAIC
 
 ## Content Generation
 
