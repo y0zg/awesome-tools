@@ -72,6 +72,7 @@ A curated collection of tools, platforms, and resources for improving developer 
 
 ## Testing & Quality
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available CLI for natural-language web and mobile application tests, with execution memory and UI adaptation (FSL-1.1-ALv2; converts to Apache-2.0 after two years)
 - [RandomUser API](https://randomuser.me/api) - Random user data for testing
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake API for testing
 - [Cypress](https://www.cypress.io/) - JavaScript end-to-end testing
@@ -114,4 +115,4 @@ A curated collection of tools, platforms, and resources for improving developer 
 - [VPS Comparison](https://www.comparevps.com/) - VPS pricing comparison
 - [Contabo](https://contabo.com/en/) - Affordable VPS hosting
 - [Vultr](https://www.vultr.com/) - Cloud compute services
-- [VSYS Host](https://vsys.host/) - Ukraine-based hosting 
+- [VSYS Host](https://vsys.host/) - Ukraine-based hosting
