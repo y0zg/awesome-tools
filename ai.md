@@ -24,6 +24,7 @@ I've spent a lot of time now optimizing it to work with my workflow and
 the thing has made such a massive difference its insane
 ```
 - https://github.com/block/buzz Platform for agents and humans
+- Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. https://github.com/snarktank/ralph
 
 ## Local AI
 - https://github.com/nicepkg/ctxport - copy Copy AI conversations as clean Markdown Context Bundles
@@ -81,6 +82,7 @@ the thing has made such a massive difference its insane
 - [headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM
 - [AgentMemory](https://github.com/rohitg00/agentmemory) - Persistent memory for AI agents
 - skill `ponytail-review` https://medium.com/@joe.njenga/i-tried-claude-code-ponytail-and-found-the-lazy-solution-youve-been-missing-d0828735c8bb
+- https://github.com/waynesutton/opensync
 
 ## Skills
 
@@ -101,6 +103,7 @@ the thing has made such a massive difference its insane
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Community-driven AI framework
 - [Phind](http://phind.com/) - AI-powered search engine for developers
 - [AI Music](https://aimusic.so/tag/Ukraine) - AI music generation
+- https://github.com/Ciphore/glass
 
 ## Infrastructure Management
 
@@ -126,6 +129,7 @@ the thing has made such a massive difference its insane
 - [Falco AI](https://falco.org/) - Runtime security with ML-based threat detection
 - [Snyk AI](https://snyk.io/product/snyk-code/) - AI-powered vulnerability detection
 - Escape evaluation https://github.com/UKGovernmentBEIS/sandbox_escape_bench
+- AI-Powered Dark Web OSINT Tool https://github.com/apurvsinghgautam/robin
 
 ## Mobile
 - https://github.com/google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation.
