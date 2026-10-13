@@ -5,6 +5,10 @@
 
 AI tools and resources
 
+## Pricing
+- https://models.dev/
+
+
 ## Local setup
 - cmux.com
 - claude cli
