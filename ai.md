@@ -18,6 +18,7 @@ AI tools and resources
 - https://github.com/github/spec-kit - Define what to build before building it with any AI coding agent
 
 ## Agents
+- AWS Agents https://github.com/aws/agent-toolkit-for-aws/tree/main
 - https://github.com/google/adk-python
 - Agents memory https://github.com/vectorize-io/hindsight
 ```
