@@ -20,6 +20,7 @@
 ## Email & Identity
 
 - [Hunter.io](https://hunter.io) - Email address finder
+- [Opsis](https://useopsis.com) - Linked-account lookup by email, username or domain
 
 ## Threat Intelligence
 
