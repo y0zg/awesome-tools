@@ -144,6 +144,7 @@ the thing has made such a massive difference its insane
 - [Midjourney](https://www.midjourney.com/) - Generate images using AI
 - [Canva AI](https://www.canva.com/ai-image-generator/) - Design tools powered by AI
 - [Runway](https://runwayml.com/) - AI video editing and visual effects
+- [Remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 
 ## Learning Resources
 
