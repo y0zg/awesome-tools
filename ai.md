@@ -46,9 +46,6 @@ the thing has made such a massive difference its insane
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) - Karpathy's pattern for building a persistent, compounding knowledge base maintained by LLMs (vs. one-shot RAG)
 - https://github.com/THU-MAIC/OpenMAIC
 
-## Content Generation
-
-- [Artlist](https://artlist.io/) - Music and audio licensing for content creators
 
 ## Workflows
 
@@ -121,6 +118,7 @@ the thing has made such a massive difference its insane
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions
 - [Tabnine](https://www.tabnine.com/) - AI code completion for all programming languages
+- [Artlist](https://artlist.io/) - Music and audio licensing for content creators
 
 ## AI for DevOps
 
