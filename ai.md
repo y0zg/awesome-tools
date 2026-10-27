@@ -118,7 +118,6 @@ the thing has made such a massive difference its insane
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions
 - [Tabnine](https://www.tabnine.com/) - AI code completion for all programming languages
-- [Artlist](https://artlist.io/) - Music and audio licensing for content creators
 
 ## AI for DevOps
 
@@ -143,6 +142,7 @@ the thing has made such a massive difference its insane
 - [Canva AI](https://www.canva.com/ai-image-generator/) - Design tools powered by AI
 - [Runway](https://runwayml.com/) - AI video editing and visual effects
 - [Remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+- [Artlist](https://artlist.io/) - Music and audio licensing for content creators
 
 ## Learning Resources
 
