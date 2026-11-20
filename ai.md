@@ -138,6 +138,7 @@ the thing has made such a massive difference its insane
 
 ## Apple
 - Appstore automation https://github.com/rorkai/App-Store-Connect-CLI
+- skill https://github.com/safaiyeh/app-store-review-skill
   
 ## Content Creation
 
