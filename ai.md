@@ -136,6 +136,9 @@ the thing has made such a massive difference its insane
 ## Mobile
 - https://github.com/google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation.
 
+## Apple
+- Appstore automation https://github.com/rorkai/App-Store-Connect-CLI
+  
 ## Content Creation
 
 - [Midjourney](https://www.midjourney.com/) - Generate images using AI
