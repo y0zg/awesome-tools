@@ -50,6 +50,7 @@ A curated collection of tools, platforms, and resources for improving developer 
 ## Git Tools
 
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Terminal UI for git
+- [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer with Git diff previews, staging/unstaging controls and local commits
 - [Git Flow](https://github.com/nvie/gitflow) - Git branching model
 - [Husky](https://typicode.github.io/husky/#/) - Git hooks made easy
 - [Conventional Commits](https://www.conventionalcommits.org/) - Commit message convention
